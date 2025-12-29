@@ -1,3 +1,4 @@
+我现在是坏改动，看到我说明是坏了
 现在得到的既不是A也不是B
 目前添加了对main的push保护
 使用git commit -m "test: try pushing to protected main"进行测试
